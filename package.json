@@ -1,0 +1,9 @@
+{
+  "name": "agentsuite-mcp",
+  "version": "1.0.0",
+  "description": "Universal 15-in-1 AI Agent Super Gateway & Meta Router MCP for Cursor, Claude Code, and Windsurf",
+  "main": "index.js",
+  "type": "module",
+  "author": "tofan96you",
+  "license": "MIT"
+}

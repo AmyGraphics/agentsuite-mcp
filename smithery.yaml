@@ -1,0 +1,21 @@
+name: agentsuite-mcp
+displayName: OmniSuite - All-in-One Autonomous AI Agent & Developer MCP Super Gateway
+description: Universal All-in-One AI Agent Super Gateway combining 15 specialized MCP servers into a single master router for Cursor, Claude & Windsurf. Features automated code review, web scraping, prompt hardening, SEO analysis, SQL generation, Solana analytics, and pro license verification.
+category: developer-tools
+homepage: https://github.com/AmyGraphics/agentsuite-mcp
+repository: https://github.com/AmyGraphics/agentsuite-mcp
+icon: https://raw.githubusercontent.com/AmyGraphics/agentsuite-mcp/main/icon.png
+keywords:
+  - all-in-one
+  - agent-gateway
+  - mcp-suite
+  - cursor
+  - claude
+  - windsurf
+  - web-scraping
+  - prompt-engineering
+  - devops
+  - code-review
+startCommand:
+  type: http
+  url: https://agentsuite-api.agentweb-hub.workers.dev/mcp
